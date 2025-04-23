@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @hafid-js
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning ruby on rails
 - ⚡ Fun fact: i'm guy
 
 <!---
